@@ -6,3 +6,11 @@ h1,h2,h3{
     color: #6b4a36;
 
 }
+pic{
+
+  border: 1px solid #6b4a36;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}
